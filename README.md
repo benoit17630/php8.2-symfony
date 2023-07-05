@@ -1,4 +1,4 @@
-# Containeur docker pour symfony et php 8.2
+# Container docker pour symfony et php 8.2
 
 ## 1. <a name= 'sommaire'></a>Sommaire
 
@@ -7,7 +7,7 @@
 - [3. Installation](#installation)
 - [4. Utilisation](#utilisation)
 - [5. Base de donnée](#base-de-donnée)
-- [6. Maildev](#maildev)
+- [6. Mail-dev](#maildev)
 
 
 
@@ -53,7 +53,7 @@
     ou
     symfony console doctrine:database:create
 
-## 6. <a name = 'Maildev'></a>Maildev
+## 6. <a name = 'Maildev'></a>Mail-dev
     Pour voir les mails envoyés, vous pouvez taper l'url suivante:
     http://localhost:1080
     dans le fichier .env, vous pouvez modifier les lignes suivantes:
