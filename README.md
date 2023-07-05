@@ -1,9 +1,9 @@
-# containeur docker pour symfony et php 8.2
+# Containeur docker pour symfony et php 8.2
 
-## 1. <a name= 'Table of Contents'></a>Sommaire
+## 1. <a name= 'sommaire'></a>Sommaire
 
 - [1. Sommaire](#sommaire)
-- [2. Prérequis](#prérequis)
+- [2. Prérequis](#Prérequis)
 - [3. Installation](#installation)
 - [4. Utilisation](#utilisation)
 - [5. Base de donnée](#base-de-donnée)
@@ -58,4 +58,4 @@
     MAILER_DSN=smtp://maildev:25
 
 
-"# php8.2-symfony" 
+
