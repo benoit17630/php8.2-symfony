@@ -21,6 +21,8 @@
     Vous devez avoir les versions de docker et docker-compose installées sur votre machine.
     
 ## 3. <a name= 'Installation'></a>Installation
+    Avant de lancer le conteneur, vous devez modifier le fichier dockerfile pour mettre votre nom et votre email.
+    pour la creation du projet symfony avec la commande symfony new project --webapp, vous devez avoir un compte symfony.
     Pour installer le conteneur docker, vous pouvez taper la commande suivante:
     docker-compose up -d
     Pour vérifier que le conteneur est bien installé, vous pouvez taper la commande suivante:

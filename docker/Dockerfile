@@ -36,4 +36,5 @@ WORKDIR /var/www/
 RUN symfony server:ca:install
 # initialisation de symfony pour la creation de projet
 RUN git config --global user.name "Entre votre nom pour la creation de projet symfony"
+RUN git config --global user.email "Entre votre email pour la creation de projet symfony"
 
